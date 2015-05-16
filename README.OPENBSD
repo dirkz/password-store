@@ -1,0 +1,12 @@
+# Dependencies for OpenBSD:
+
+## BUILD:
+gmake-4.1p0
+
+## RUN:
+bash
+git
+gnugetopt
+gnupg (2?)
+pwgen
+
